@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\obj\Debug\net5.0-windows\Matematyka.Form1.resources
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\obj\Debug\net5.0-windows\Matematyka.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\obj\Debug\net5.0-windows\Matematyka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\obj\Debug\net5.0-windows\Matematyka.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\obj\Debug\net5.0-windows\Matematyka.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\obj\Debug\net5.0-windows\Matematyka.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\bin\Debug\net5.0-windows\Matematyka.exe
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\bin\Debug\net5.0-windows\Matematyka.deps.json
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\bin\Debug\net5.0-windows\Matematyka.runtimeconfig.json
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\bin\Debug\net5.0-windows\Matematyka.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\bin\Debug\net5.0-windows\Matematyka.dll
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\bin\Debug\net5.0-windows\ref\Matematyka.dll
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\bin\Debug\net5.0-windows\Matematyka.pdb
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\obj\Debug\net5.0-windows\Matematyka.dll
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\obj\Debug\net5.0-windows\ref\Matematyka.dll
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\obj\Debug\net5.0-windows\Matematyka.pdb
+C:\Users\Admin\Desktop\Programowanie_Lab\Matematyka\Matematyka\obj\Debug\net5.0-windows\Matematyka.genruntimeconfig.cache
