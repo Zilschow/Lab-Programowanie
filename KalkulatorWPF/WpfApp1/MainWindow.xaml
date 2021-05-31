@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Podaj a" HorizontalAlignment="Left" Margin="29,22,0,0" VerticalAlignment="Top" Height="30" Width="86"/>
+        <Label Content="Podaj b" HorizontalAlignment="Left" Margin="29,71,0,0" VerticalAlignment="Top" Width="86"/>
+        <TextBox x:Name="liczba1" HorizontalAlignment="Left" Margin="120,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="liczba2" HorizontalAlignment="Left" Margin="120,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="butSuma" Content="Suma" HorizontalAlignment="Left" Margin="29,122,0,0" VerticalAlignment="Top" Height="30" Width="118" Click="butSuma_Click"/>
+        <Button x:Name="butRoz" Content="Różnica" HorizontalAlignment="Left" Margin="152,122,0,0" VerticalAlignment="Top" Height="30" Width="118" Click="butRoz_Click"/>
+        <Button x:Name="butIlocz" Content="Iloczyn" HorizontalAlignment="Left" Margin="29,167,0,0" VerticalAlignment="Top" Height="30" Width="118" Click="butIlocz_Click"/>
+        <Button x:Name="butIloraz" Content="Iloraz" HorizontalAlignment="Left" Margin="152,167,0,0" VerticalAlignment="Top" Height="30" Width="118" RenderTransformOrigin="-0.111,1.224" Click="butIloraz_Click"/>
+        <TextBox x:Name="wynik" HorizontalAlignment="Left" Margin="29,238,0,0" Text="Wynik" TextWrapping="Wrap" VerticalAlignment="Top" Width="241" Height="65"/>
+
+    </Grid>
+</Window>
